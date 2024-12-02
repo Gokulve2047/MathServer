@@ -130,13 +130,12 @@ from mathapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.power_calculator, name='power_calculator'), 
+```
 
-    ```
 ## SERVER SIDE PROCESSING:
-Screenshot 2024-12-02 183616.png
-
+![alt text](<Screenshot 2024-12-02 183616.png>)
 ## HOMEPAGE:
-math.png
+![alt text](math.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
